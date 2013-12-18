@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyEqualizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="eq">Equalizer:</string>
+    
+    <string name="playBtn">Play</string>
+    <string name="stopBtn">Stop</string>
+    <string name="eqBtn">Equalizer Settings</string>
+    <string name="custom">自定义风格</string>
+     <string name="backChosePreset">返回风格选择</string>
+</resources>
